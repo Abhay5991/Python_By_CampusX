@@ -1,0 +1,1274 @@
+"index";"Company";"TypeName";"Inches";"resolution_width";"resolution_height";"touchscreen";"cpu_brand";"cpu_name";"cpu_speed";"Ram";"Memory";"memory_type";"primary_storage";"secondary_storage";"gpu_brand";"OpSys";"Weight";"Price"
+0;"Apple";"Ultrabook";13.3;2560;1600;0;"Intel";"Core i5";2.3;8;"128GB SSD";"SSD";128;0;"Intel";"macos";"1.37";71379
+1;"Apple";"Ultrabook";13.3;1440;900;0;"Intel";"Core i5";1.8;8;"128GB Flash Storage";"Flash Storage";128;0;"Intel";"macos";"1.34";47896
+2;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"N/A";"1.86";30636
+3;"Apple";"Ultrabook";15.4;2880;1800;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"AMD";"macos";"1.83";135195
+4;"Apple";"Ultrabook";13.3;2560;1600;0;"Intel";"Core i5";3.1;8;"256GB SSD";"SSD";256;0;"Intel";"macos";"1.37";96096
+5;"Acer";"Notebook";15.6;1366;768;0;"AMD";"A9-Series 9420";3.0;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.1";21312
+6;"Apple";"Ultrabook";15.4;2880;1800;0;"Intel";"Core i7";2.2;16;"256GB Flash Storage";"Flash Storage";256;0;"Intel";"macos";"2.04";114018
+7;"Apple";"Ultrabook";13.3;1440;900;0;"Intel";"Core i5";1.8;8;"256GB Flash Storage";"Flash Storage";256;0;"Intel";"macos";"1.34";61736
+8;"Asus";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";1.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"1.3";79654
+9;"Acer";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";41026
+10;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"N/A";"1.86";20987
+11;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"N/A";"1.86";18381
+12;"Apple";"Ultrabook";15.4;2880;1800;0;"Intel";"Core i7";2.8;16;"256GB SSD";"SSD";256;0;"AMD";"macos";"1.83";130002
+13;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.2";26581
+14;"Apple";"Ultrabook";12.0;2304;1440;0;"Intel";"Core M";1.2;8;"256GB SSD";"SSD";256;0;"Intel";"macos";"0.92";67261
+15;"Apple";"Ultrabook";13.3;2560;1600;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"macos";"1.37";80908
+16;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.2";39694
+17;"Apple";"Ultrabook";15.4;2880;1800;0;"Intel";"Core i7";2.9;16;"512GB SSD";"SSD";512;0;"AMD";"macos";"1.83";152274
+18;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.4;8;"1TB HDD";"HDD";1024;0;"Nvidia";"N/A";"2.2";26587
+19;"Dell";"Ultrabook";13.3;1920;1080;1;"Intel";"Core i5";1.6;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.22";52161
+21;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.5";53227
+22;"HP";"Notebook";15.6;1366;768;0;"AMD";"E-Series E2-9000e";1.5;4;"500GB HDD";"HDD";500;0;"AMD";"N/A";"1.86";13746
+23;"Dell";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.62";43636
+24;"HP";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.91";35112
+25;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.3";22305
+26;"Apple";"Ultrabook";13.3;1440;900;0;"Intel";"Core i5";1.6;8;"128GB Flash Storage";"Flash Storage";128;0;"Intel";"macos";"1.35";58555
+27;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.2";42624
+28;"Dell";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";1.9;8;"256GB SSD +  256GB SSD";"SSD";256;256;"Intel";"windows";"1.88";69157
+29;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";1.6;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.5";47739
+30;"Chuwi";"Notebook";15.6;1920;1080;0;"Intel";"Atom x5-Z8300";1.4;4;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"windows";"1.89";13053
+31;"Asus";"Notebook";14.0;1366;768;0;"AMD";"E-Series E2-6110";1.5;2;"32GB Flash Storage";"Flash Storage";32;0;"AMD";"windows";"1.65";10603
+32;"HP";"Notebook";17.3;1920;1080;0;"AMD";"A6-Series 9220";2.5;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.71";23390
+33;"Dell";"Ultrabook";13.3;3200;1800;1;"Intel";"Core i7";1.8;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.2";99580
+34;"Apple";"Ultrabook";13.3;1440;900;0;"Intel";"Core i5";1.6;8;"256GB Flash Storage";"Flash Storage";256;0;"Intel";"macos";"1.35";53173
+35;"Lenovo";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.1;4;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"windows";"1.44";13267
+36;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.7;4;"1TB HDD";"HDD";1024;0;"Intel";"linux";"2.1";19554
+37;"Dell";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";1.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"windows";"2.8";52161
+38;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.86";26037
+39;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.1";46833
+40;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"linux";"2";20726
+41;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.65";79867
+42;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"linux";"2.3";27865
+43;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.2";36337
+44;"Dell";"2 in 1 Convertible";17.3;1920;1080;1;"Intel";"Core i5";1.6;12;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.77";53227
+45;"Apple";"Ultrabook";13.3;2560;1600;0;"Intel";"Core i5";2.0;8;"256GB SSD";"SSD";256;0;"Intel";"macos";"1.37";75604
+47;"Asus";"Gaming";17.3;1920;1080;0;"AMD";"Ryzen 1700";3.0;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"AMD";"windows";"3.2";69211
+48;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.3";34046
+49;"Asus";"Notebook";17.3;1366;768;0;"Intel";"Pentium Quad";1.1;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.8";24828
+51;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.2";44808
+52;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A6-Series 9220";2.5;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.86";21232
+53;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i7";1.8;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.49";58768
+54;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.4";20460
+55;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.13";40908
+56;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.91";23390
+57;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"2";31232
+58;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  2TB HDD";"Hybrid";256;2048;"Nvidia";"windows";"2.43";130483
+59;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"256GB SSD";"SSD";256;0;"Intel";"linux";"2";22111
+60;"Dell";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";1.8;16;"256GB SSD +  2TB HDD";"Hybrid";256;2048;"AMD";"windows";"2.8";69211
+61;"Dell";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.7";46833
+62;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i3";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"N/A";"1.7";31915
+63;"Asus";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.4";50136
+64;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.86";36763
+65;"Asus";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"1.8";105654
+66;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"1.86";23373
+67;"HP";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.6;4;"32GB SSD";"SSD";32;0;"Intel";"windows";"1.44";12201
+68;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.9";29251
+69;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;12;"1TB HDD";"HDD";1024;0;"Nvidia";"linux";"3";50563
+70;"Microsoft";"Ultrabook";13.5;2256;1504;1;"Intel";"Core i5";2.5;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.252";58022
+71;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";1.8;64;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.4";50882
+72;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.2";46354
+73;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.7";58342
+74;"Acer";"Notebook";14.0;1366;768;0;"Intel";"Core i3";2.0;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.1";20726
+75;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";50563
+76;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"2TB HDD";"HDD";2048;0;"Intel";"N/A";"2.2";27652
+77;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Intel";"windows";"2.02";45554
+78;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.7;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";28238
+79;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";1.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.5";52055
+80;"Dell";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.88";58403
+81;"Apple";"Ultrabook";12.0;2304;1440;0;"Intel";"Core i5";1.3;8;"512GB SSD";"SSD";512;0;"Intel";"macos";"0.92";80453
+82;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.63";45821
+83;"Lenovo";"Notebook";15.6;1920;1080;0;"AMD";"A6-Series 9220";2.5;4;"128GB SSD";"SSD";128;0;"AMD";"windows";"2.2";21259
+84;"Acer";"Notebook";15.6;1366;768;0;"AMD";"A9-Series 9420";3.0;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.1";21046
+85;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.65";71875
+86;"HP";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.83";37243
+87;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.96";31914
+88;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.2";77203
+89;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.21";87859
+90;"Asus";"Gaming";15.6;1920;1080;0;"AMD";"FX 9830P";3.0;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.45";37243
+91;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;2;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";36710
+92;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i7";1.8;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.49";63776
+93;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.65";63670
+94;"Asus";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.25";55891
+95;"Acer";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.5";45128
+96;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"AMD";"linux";"2.2";31963
+97;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"256GB SSD";"SSD";256;0;"AMD";"linux";"2.2";25841
+98;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.4;6;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2";30743
+99;"HP";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;12;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.62";66547
+100;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.91";38308
+101;"HP";"Notebook";15.6;1920;1080;0;"AMD";"E-Series E2-9000e";1.5;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.1";18595
+102;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"1TB HDD";"HDD";1024;0;"AMD";"linux";"2.2";34472
+103;"HP";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.38";59620
+104;"Microsoft";"Ultrabook";13.5;2256;1504;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.252";71395
+105;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;6;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.58";35112
+106;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.85";22106
+107;"Asus";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.3";63563
+108;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.2";69211
+109;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.58";78854
+110;"Asus";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";1.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"1.5";67239
+111;"Dell";"Ultrabook";13.3;3200;1800;1;"Intel";"Core i7";2.4;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.23";73473
+112;"Lenovo";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.37";74539
+113;"HP";"Notebook";14.0;1366;768;0;"Intel";"Core i5";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.63";38468
+114;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.21";86793
+116;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";1.8;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.63";57756
+117;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.16";60224
+118;"Asus";"Notebook";17.3;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2";30050
+119;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.7";59567
+120;"Acer";"Notebook";15.6;1920;1080;1;"Intel";"Core i3";2.4;6;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.1";25521
+121;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  2TB HDD";"Hybrid";256;2048;"Nvidia";"windows";"1.8";119427
+122;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"N/A";"2.2";33513
+123;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";1.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.5";67719
+124;"Acer";"Notebook";15.6;1366;768;0;"AMD";"A9-Series 9420";3.0;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.1";24029
+126;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";1.6;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.63";43263
+127;"Asus";"Notebook";14.0;1366;768;0;"AMD";"E-Series 6110";1.5;4;"64GB SSD";"SSD";64;0;"AMD";"windows";"1.65";14811
+128;"Dell";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";1.8;16;"256GB SSD +  2TB HDD";"Hybrid";256;2048;"AMD";"windows";"2.8";74379
+129;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.5";49444
+130;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.36";34045
+131;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.2";23923
+132;"Acer";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";47100
+133;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.7;4;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"7.2";30476
+134;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.05";31861
+135;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.63";52641
+136;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"N/A";"1.9";13446
+137;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"3";49977
+138;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Nvidia";"N/A";"2.2";26587
+139;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.32";37243
+140;"Acer";"Notebook";17.3;1920;1080;0;"Intel";"Core i3";2.7;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"3";34898
+141;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.75";59462
+142;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"N/A";"2.4";46300
+143;"Toshiba";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.1";32075
+144;"HP";"Notebook";15.6;1366;768;0;"AMD";"A6-Series 9220";2.5;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.86";19660
+145;"Asus";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.25";58555
+146;"HP";"Ultrabook";12.5;3840;2160;1;"Intel";"Core M";1.2;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"0.97";107306
+147;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Celeron Dual";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2";18328
+149;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.1";23816
+150;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.56";66561
+151;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"1.0TB Hybrid";"Hybrid";1024;0;"Nvidia";"windows";"2.62";47899
+152;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.9";26533
+153;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.8";100699
+154;"HP";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i5";2.7;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.48";57649
+155;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;6;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.91";32980
+156;"Lenovo";"2 in 1 Convertible";14.0;1920;1080;1;"Intel";"Core i3";2.4;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.74";33513
+157;"Asus";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.1";70063
+158;"Dell";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.56";55891
+159;"Toshiba";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.2;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.1";23816
+160;"Asus";"Notebook";15.6;1366;768;0;"AMD";"A9-Series 9420";3.0;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.03";21472
+161;"Acer";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";1.6;4;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"3";42890
+162;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.13";38788
+163;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.5";57489
+164;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.1";18541
+165;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.4";95851
+166;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.1";19368
+167;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.56";56503
+168;"Acer";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"3";45501
+169;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.49";40173
+170;"Huawei";"Ultrabook";13.0;2160;1440;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.05";71875
+171;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";2.5;6;"2TB HDD";"HDD";2048;0;"AMD";"windows";"2.71";37243
+172;"Lenovo";"Notebook";15.6;1366;768;0;"AMD";"A6-Series 9220";2.9;4;"500GB HDD";"HDD";500;0;"AMD";"N/A";"2.2";16464
+173;"Toshiba";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"5.4";26054
+174;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.5";49177
+175;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.3";24456
+176;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.1";23923
+177;"MSI";"Gaming";18.4;1920;1080;0;"Intel";"Core i7";2.9;32;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"4.4";149131
+178;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"windows";"1.90";43317
+179;"HP";"2 in 1 Convertible";13.3;3840;2160;1;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.29";79867
+180;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;16;"256GB SSD +  2TB HDD";"Hybrid";256;2048;"AMD";"linux";"2.02";55891
+181;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.23";74539
+182;"Lenovo";"2 in 1 Convertible";13.9;3840;2160;1;"Intel";"Core i7";1.8;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.4";98515
+183;"Toshiba";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.0";42251
+184;"Xiaomi";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Nvidia";"N/A";"1.95";63883
+185;"Dell";"Notebook";17.3;1920;1080;1;"Intel";"Core i7";1.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.77";82531
+186;"Dell";"Notebook";15.6;3840;2160;1;"Intel";"Core i7";2.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.06";127712
+187;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"N/A";"2.4";41505
+188;"Acer";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";1.2;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.12";52694
+189;"Dell";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";1.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"windows";"2.8";57809
+191;"Vero";"Notebook";14.0;1920;1080;0;"Intel";"Celeron Dual";1.1;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.3";13853
+192;"Xiaomi";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"N/A";"1.3";53275
+193;"Lenovo";"Notebook";17.3;1600;900;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Nvidia";"N/A";"2.8";37189
+194;"Dell";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";1.8;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.62";44702
+195;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";1.6;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.5";48698
+196;"Razer";"Gaming";17.3;3840;2160;1;"Intel";"Core i7";2.9;32;"1TB SSD";"SSD";1024;0;"Nvidia";"windows";"3.49";324955
+197;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";1.6;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.49";51096
+198;"HP";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3.35";73473
+199;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.5";55678
+200;"Dell";"Gaming";15.6;3840;2160;0;"Intel";"Core i7";2.8;16;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"2.65";98302
+201;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.1";26267
+202;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.23";39534
+203;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"3.2";93187
+204;"Dell";"Workstation";15.6;3840;2160;0;"Intel";"Xeon E3-1505M";3.0;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.8";162770
+205;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"N/A";"2.4";74485
+206;"Dell";"Notebook";15.6;1366;768;1;"Intel";"Core i3";2.4;6;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.3";23390
+207;"Dell";"Ultrabook";13.3;3840;2160;1;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.21";103843
+208;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"?";77203
+210;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"linux";"2.4";41505
+211;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.9";74965
+212;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"N/A";"2.1";18595
+213;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"N/A";"2.2";29251
+214;"Huawei";"Ultrabook";13.0;2160;1440;0;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.05";79867
+215;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.4";49651
+216;"Lenovo";"Notebook";17.3;1600;900;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"N/A";"2.8";31382
+217;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.63";54932
+218;"Dell";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";61219
+219;"Dell";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";1.8;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.62";68145
+220;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"AMD";"linux";"2.2";36089
+221;"Lenovo";"2 in 1 Convertible";14.0;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.74";47899
+222;"Toshiba";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.2";72621
+223;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.1";42304
+224;"Dell";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.42";130874
+225;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.2";44329
+226;"Dell";"Notebook";15.6;1920;1080;1;"Intel";"Core i7";2.7;16;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.3";45768
+227;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2";40972
+228;"Asus";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD +  500GB HDD";"Hybrid";256;500;"Nvidia";"windows";"2.69";47472
+229;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"1.9";67612
+230;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.37";21258
+231;"HP";"Notebook";15.6;1366;768;0;"AMD";"E-Series 9000e";1.5;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.1";17582
+232;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3.2";79867
+233;"Dell";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";45768
+234;"Acer";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";36710
+235;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;16;"256GB SSD";"SSD";256;0;"AMD";"linux";"2.36";47899
+236;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"linux";"2.1";20779
+237;"Asus";"Notebook";15.6;1920;1080;0;"AMD";"A10-Series A10-9620P";2.5;4;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"windows";"2.2";30636
+238;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.9;32;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"4.7";207259
+239;"Acer";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.5";45075
+240;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"7.2";31382
+241;"Asus";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";1.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.1";61006
+242;"Asus";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";2.7;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"N/A";"2.69";47366
+243;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.56";46833
+244;"Lenovo";"2 in 1 Convertible";13.9;1920;1080;1;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.38";57489
+245;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"128GB SSD +  2TB HDD";"Hybrid";128;2048;"AMD";"windows";"2.2";52481
+246;"HP";"Notebook";15.6;1366;768;1;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.04";29784
+247;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.9;16;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"3.6";159787
+248;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.49";35964
+249;"Apple";"Ultrabook";13.3;2560;1600;0;"Intel";"Core i5";3.1;8;"512GB SSD";"SSD";512;0;"Intel";"macos";"1.37";108691
+250;"Dell";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i7";1.8;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.08";43636
+251;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.3";95851
+252;"Asus";"Notebook";15.6;1366;768;0;"AMD";"A9-Series 9420";3.0;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"1.68";24988
+253;"Lenovo";"2 in 1 Convertible";13.9;1920;1080;1;"Intel";"Core i7";1.8;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.37";98515
+254;"Acer";"Notebook";17.3;1920;1080;0;"Intel";"Core i3";2.7;4;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"3";37403
+255;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.41";50563
+256;"HP";"Notebook";15.6;1366;768;0;"AMD";"A6-Series A6-9220";2.5;8;"128GB SSD";"SSD";128;0;"AMD";"windows";"1.91";23758
+257;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";1.8;16;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.9";56424
+258;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"4.14";133147
+259;"Lenovo";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i7";2.8;8;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2";90523
+260;"Dell";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";1.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"windows";"2.8";60846
+261;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"256GB SSD";"SSD";256;0;"Intel";"N/A";"2.2";23656
+262;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.1";38468
+263;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.18";35005
+264;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.24";30103
+265;"Dell";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.67";42571
+266;"Asus";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";1.8;8;"512GB SSD +  512GB SSD";"SSD";512;512;"Intel";"windows";"4.1";79867
+268;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";1.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.5";54239
+269;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.05";46886
+270;"Apple";"Ultrabook";13.3;2560;1600;0;"Intel";"Core i5";2.9;8;"512GB SSD";"SSD";512;0;"Intel";"macos";"1.37";104370
+271;"Asus";"Gaming";17.3;1920;1080;0;"AMD";"Ryzen 1700";3.0;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"AMD";"windows";"3.2";82531
+272;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"AMD";"linux";"2.14";39165
+273;"Lenovo";"2 in 1 Convertible";14.0;2560;1440;1;"Intel";"Core i7";2.6;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.36";133147
+274;"Toshiba";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.5;8;"500GB HDD";"HDD";500;0;"Nvidia";"windows";"2.2";43263
+275;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.7;12;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.3";37992
+276;"Dell";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";1.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"linux";"2.8";58555
+277;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";39694
+278;"Lenovo";"Notebook";17.3;1600;900;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.8";26054
+279;"Lenovo";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";1.8;8;"2TB HDD";"HDD";2048;0;"Nvidia";"N/A";"2.8";45235
+280;"Lenovo";"Notebook";17.3;1600;900;0;"Intel";"Core i7";2.7;6;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.8";45768
+281;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"linux";"2.25";22804
+282;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.5";44169
+283;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;6;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.2";30849
+284;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"3";50669
+285;"Acer";"Notebook";15.6;1920;1080;1;"Intel";"Core i7";2.7;12;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.15";35112
+286;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.95";58448
+287;"Asus";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.7";52055
+288;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.5";62817
+289;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"Nvidia";"N/A";"2.2";35112
+290;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.5;2;"16GB SSD";"SSD";16;0;"Intel";"other";"2.19";10603
+291;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"3";63243
+292;"HP";"Notebook";17.3;1600;900;0;"Intel";"Core i3";2.0;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.54";26054
+293;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2";97449
+294;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.05";39374
+295;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"3.2";69211
+296;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"linux";"2.5";52161
+297;"Dell";"Workstation";17.3;1920;1080;0;"Intel";"Core i7";2.9;16;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"3.42";153705
+298;"Lenovo";"Notebook";15.6;1920;1080;0;"AMD";"A10-Series 9600P";2.4;6;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.4";26587
+299;"Asus";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"1.63";78215
+300;"Asus";"Notebook";14.0;1366;768;0;"Intel";"Core i3";2.4;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.3";27120
+301;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.9";113060
+302;"Lenovo";"Notebook";17.3;1600;900;0;"Intel";"Core i5";2.5;6;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"5.8";34579
+303;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"2TB HDD";"HDD";2048;0;"Nvidia";"N/A";"2.2";29251
+304;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.5";67399
+305;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"N/A";"2.2";19180
+306;"HP";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";2.8;16;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.28";105228
+307;"Toshiba";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.2";55571
+308;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.3";43636
+309;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.86";24988
+310;"Lenovo";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.1";53227
+311;"Dell";"Ultrabook";13.3;3840;2160;1;"Intel";"Core i7";1.8;16;"1TB SSD";"SSD";1024;0;"Intel";"windows";"1.21";133147
+312;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.8";111835
+313;"Acer";"Notebook";15.6;1920;1080;0;"AMD";"A8-Series 7410";2.2;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.23";24988
+314;"Asus";"2 in 1 Convertible";11.6;1366;768;1;"Intel";"Celeron Dual";1.1;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.1";14652
+315;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"windows";"2.33";44968
+316;"HP";"2 in 1 Convertible";13.3;3840;2160;1;"Intel";"Core i7";1.8;16;"1TB SSD";"SSD";1024;0;"Intel";"windows";"1.29";130483
+317;"Lenovo";"Notebook";13.3;1366;768;0;"Intel";"Celeron Dual";1.6;4;"16GB Flash Storage";"Flash Storage";16;0;"Intel";"other";"1.45";24503
+318;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.95";52214
+319;"Acer";"Notebook";11.6;1366;768;0;"Intel";"Pentium Quad";1.6;4;"128GB Flash Storage";"Flash Storage";128;0;"Intel";"windows";"1.4";25841
+320;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.48";68838
+321;"Lenovo";"Notebook";17.3;1600;900;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.79";31382
+322;"Asus";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2";58288
+323;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i7";1.8;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.1";48059
+324;"Acer";"Notebook";15.6;1366;768;0;"AMD";"A12-Series 9720P";2.7;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.2";35112
+325;"Lenovo";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.1;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.44";15558
+326;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;6;"1TB HDD";"HDD";1024;0;"Intel";"windows";"8.23";29251
+327;"Asus";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.7";55939
+328;"HP";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.26";71129
+329;"Dell";"Notebook";15.6;3840;2160;1;"Intel";"Core i7";2.8;32;"1TB SSD";"SSD";1024;0;"Nvidia";"windows";"2.06";140606
+330;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.7";63883
+331;"Toshiba";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.0";50243
+332;"Asus";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Intel";"windows";"2";71076
+333;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.85";23923
+334;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.5";53227
+335;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.48";67559
+337;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.84";60952
+338;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"linux";"2";14651
+339;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2";60886
+340;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"linux";"2.2";14647
+341;"Lenovo";"Notebook";15.6;1920;1080;0;"AMD";"A12-Series 9720P";3.6;12;"2TB HDD";"HDD";2048;0;"AMD";"windows";"2.2";47899
+342;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.4;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.1";38148
+343;"Lenovo";"2 in 1 Convertible";13.9;3840;2160;1;"Intel";"Core i7";1.8;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.4";111835
+344;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.2";84129
+345;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  2TB HDD";"Hybrid";256;2048;"Nvidia";"windows";"2.4";60153
+346;"HP";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.6;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.44";14865
+347;"Dell";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";1.9;16;"512GB SSD +  256GB SSD";"SSD";512;256;"Intel";"windows";"1.88";85672
+348;"Asus";"2 in 1 Convertible";11.6;1366;768;1;"Intel";"Celeron Dual";1.1;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.5";19980
+349;"Dell";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"0.0002";35325
+351;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.84";69477
+352;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.7";75072
+353;"HP";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.6";92615
+354;"Toshiba";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.5;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.4";74752
+355;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"128GB SSD +  2TB HDD";"Hybrid";128;2048;"AMD";"windows";"2.02";51730
+356;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"N/A";"2.2";17156
+357;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.65";53227
+358;"Dell";"Notebook";15.6;1366;768;1;"Intel";"Core i5";2.5;8;"2TB HDD";"HDD";2048;0;"Intel";"windows";"2.36";29697
+359;"Dell";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.36";76031
+360;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.86";23390
+361;"Asus";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2";50350
+362;"Lenovo";"Notebook";17.3;1600;900;0;"Intel";"Core i5";2.5;6;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.8";38308
+363;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.86";34046
+364;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;8;"256GB SSD";"SSD";256;0;"Nvidia";"N/A";"2.2";26587
+365;"HP";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.6;8;"2TB HDD";"HDD";2048;0;"Intel";"windows";"2.04";20726
+366;"Dell";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";1.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"windows";"2.8";57809
+367;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"N/A";"2.4";43104
+368;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.33";47899
+369;"HP";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.36";93240
+370;"Asus";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i7";2.7;12;"512GB SSD +  2TB HDD";"Hybrid";512;2048;"Nvidia";"windows";"2.26";58555
+371;"Acer";"Notebook";15.6;1366;768;0;"AMD";"A9-Series 9420";3.0;4;"128GB SSD";"SSD";128;0;"AMD";"windows";"2.1";22697
+372;"Asus";"Gaming";17.3;1920;1080;0;"AMD";"Ryzen 1700";3.0;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"AMD";"windows";"3.25";117163
+373;"Lenovo";"Notebook";17.3;1600;900;0;"AMD";"A8-Series 7410";2.2;4;"128GB SSD";"SSD";128;0;"AMD";"windows";"2.6";26054
+374;"Dell";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.62";46301
+375;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A9-Series 9420";3.0;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.91";26053
+376;"Lenovo";"Netbook";11.6;1366;768;0;"Intel";"Celeron Quad";1.1;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.59";29464
+377;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.8";16464
+378;"Asus";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.1;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.5";15238
+379;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"linux";"2.4";45075
+380;"HP";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"3.35";63456
+381;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"128GB SSD";"SSD";128;0;"Intel";"N/A";"1.85";21498
+382;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.3";88178
+383;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.5";58555
+384;"Asus";"Ultrabook";13.3;1920;1080;1;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.1";93181
+385;"Lenovo";"Ultrabook";14.0;2560;1440;0;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.13";121585
+386;"Lenovo";"Notebook";13.3;1920;1080;0;"Intel";"Core i3";2.4;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.5";29251
+387;"Dell";"Workstation";15.6;1920;1080;0;"Intel";"Core i5";2.6;8;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.23";72940
+388;"Dell";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2";113753
+389;"Lenovo";"2 in 1 Convertible";14.0;2560;1440;1;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.42";133680
+390;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"3";55358
+391;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3";84768
+392;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i5";1.6;12;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";36976
+393;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.7";71875
+394;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"AMD";"linux";"2.33";41498
+395;"HP";"Ultrabook";15.6;1920;1080;0;"AMD";"A9-Series 9420";3.0;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.91";26587
+396;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.1";65511
+397;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.9";49977
+398;"Dell";"Workstation";15.6;3840;2160;1;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.78";144495
+399;"Lenovo";"Ultrabook";14.0;2560;1440;0;"Intel";"Core i7";2.7;16;"1TB SSD";"SSD";1024;0;"Intel";"windows";"1.13";139860
+400;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.2";16304
+401;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.9";81465
+402;"Lenovo";"Notebook";25.6;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"AMD";"windows";"2.1";60979
+403;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"linux";"2.5";46833
+404;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.8";119827
+405;"Asus";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.10";99793
+406;"Toshiba";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";2.5;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.2";93080
+407;"Dell";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.8;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.36";89510
+408;"Lenovo";"Notebook";35.6;1920;1080;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.2";21792
+409;"Lenovo";"Notebook";11.6;1366;768;0;"Intel";"Celeron Dual";1.1;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.15";16221
+410;"Lenovo";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.67";102564
+411;"Lenovo";"Ultrabook";14.0;2560;1440;0;"Intel";"Core i7";2.8;8;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"1.7";103523
+412;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.1";24988
+413;"Acer";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";42038
+414;"Asus";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.27";49444
+415;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"AMD";"linux";"2.3";31909
+416;"Dell";"Notebook";13.3;1366;768;0;"Intel";"Core i3";2.0;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.65";36710
+417;"HP";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.43";79920
+418;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.14";28769
+419;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.75";64755
+420;"Lenovo";"2 in 1 Convertible";15.6;3840;2160;1;"Intel";"Core i7";2.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2";101179
+421;"Chuwi";"Notebook";12.3;2736;1824;0;"Intel";"Celeron Quad";1.1;6;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"windows";"1.4";23923
+422;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.9;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.31";76031
+423;"Asus";"Notebook";35.6;1920;1080;0;"Intel";"Core i3";2.4;8;"1TB HDD";"HDD";1024;0;"Nvidia";"linux";"2.3";31808
+424;"Dell";"Gaming";27.3;2560;1440;0;"Intel";"Core i7";2.9;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.42";149131
+425;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.62";61752
+426;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD +  2TB HDD";"Hybrid";256;2048;"AMD";"windows";"2.02";60867
+427;"Dell";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Intel";"linux";"1.6";58555
+428;"HP";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;12;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3.35";106507
+429;"Mediacom";"2 in 1 Convertible";11.6;1920;1080;1;"Intel";"Celeron Dual";1.1;4;"32GB SSD";"SSD";32;0;"Intel";"windows";"1.16";15931
+430;"Samsung";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"16GB Flash Storage";"Flash Storage";16;0;"Intel";"other";"1.15";14332
+431;"Lenovo";"Notebook";13.3;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.4";53813
+432;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i3";2.7;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.7";31915
+433;"Lenovo";"Workstation";15.6;3840;2160;0;"Intel";"Core i7";2.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.3";130270
+434;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.9;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.5";130483
+435;"Asus";"Gaming";17.3;1920;1080;0;"AMD";"Ryzen 1600";3.2;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"AMD";"windows";"3.2";90310
+436;"HP";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.1";18488
+437;"Google";"Ultrabook";12.3;2400;1600;1;"Intel";"Core i7";1.3;16;"512GB SSD";"SSD";512;0;"Intel";"other";"1.1";117163
+438;"Lenovo";"Ultrabook";24.0;2560;1440;0;"Intel";"Core i7";2.7;24;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.32";126913
+439;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"linux";"2";29784
+440;"Lenovo";"Notebook";17.3;1600;900;0;"AMD";"A6-Series 9220";2.5;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.8";27652
+441;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.2";39907
+442;"Lenovo";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.36";76137
+443;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Pentium Quad";1.1;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.2";18595
+444;"HP";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.2";58555
+445;"Dell";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.64";62817
+446;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"linux";"2.4";23539
+447;"Dell";"Workstation";15.6;1920;1080;0;"Intel";"Xeon E3-1505M";3.0;8;"64GB Flash Storage +  1TB HDD";"HDD";64;1024;"Nvidia";"windows";"2.23";106187
+448;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.2";54758
+449;"Microsoft";"Ultrabook";13.5;2256;1504;1;"Intel";"Core i7";2.5;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.25";137942
+450;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.91";31382
+451;"Dell";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.7;16;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.17";105228
+452;"HP";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.9;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"2.31";81732
+453;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.65";71662
+454;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"windows";"2.36";52161
+455;"Dell";"2 in 1 Convertible";11.6;1366;768;1;"Intel";"Pentium Quad";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.47";25521
+456;"Dell";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"4.42";109011
+457;"Microsoft";"Ultrabook";13.5;2256;1504;1;"Intel";"Core M";2.2;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.252";52694
+458;"Microsoft";"Ultrabook";33.5;2256;1504;1;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.25";95851
+459;"HP";"Notebook";17.3;1600;900;0;"Intel";"Core i3";2.0;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.5";34094
+460;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.23";28984
+461;"Acer";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.4";23177
+462;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.37";39907
+463;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"AMD";"N/A";"1.5";42571
+464;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.9;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.67";111355
+465;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.1;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2";16197
+466;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Nvidia";"windows";"2.2";24988
+467;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"2TB HDD";"HDD";2048;0;"AMD";"windows";"2.02";40440
+468;"HP";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;12;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"3.78";90523
+469;"Lenovo";"Ultrabook";14.0;2560;1440;0;"Intel";"Core i7";2.6;12;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.4";98994
+470;"HP";"2 in 1 Convertible";13.3;3840;2160;1;"Intel";"Core i7";1.8;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.29";106507
+471;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"500GB HDD";"HDD";500;0;"AMD";"windows";"1.9";61485
+472;"Google";"Ultrabook";12.3;2400;1600;1;"Intel";"Core i5";1.2;8;"128GB SSD";"SSD";128;0;"Intel";"other";"1.1";67932
+473;"Dell";"Ultrabook";13.3;1920;1080;1;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.42";98134
+474;"Asus";"Notebook";15.6;3840;2160;0;"Intel";"Core i7";2.6;12;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Intel";"windows";"2.06";69211
+475;"Dell";"Notebook";14.0;1366;768;0;"Intel";"Core i3";2.3;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.79";39427
+476;"Dell";"Workstation";0.0;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.78";128298
+477;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"180GB SSD";"SSD";180;0;"Intel";"windows";"1.7";72674
+479;"Toshiba";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.05";89084
+480;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.16";67239
+481;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.18";31254
+482;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";1.6;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.49";38681
+483;"Chuwi";"Notebook";15.6;1920;1080;0;"Intel";"Atom x5-Z8350";1.4;4;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"windows";"1.89";13261
+484;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.3";30103
+485;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.75";55891
+486;"Dell";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.17";124569
+487;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.06";101179
+488;"Lenovo";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.36";95797
+489;"Asus";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"0.91";103896
+490;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.3";53919
+491;"Toshiba";"Ultrabook";13.3;1920;1080;1;"Intel";"Core i7";2.7;32;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.05";149131
+492;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"1.99";71928
+493;"Acer";"Notebook";15.6;1366;768;0;"AMD";"A10-Series 9620P";2.5;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.2";30849
+494;"Asus";"Gaming";17.3;1920;1080;1;"Intel";"Core i7";2.6;24;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.33";67612
+495;"Lenovo";"Ultrabook";12.5;1366;768;0;"Intel";"Core i5";2.3;8;"180GB SSD";"SSD";180;0;"Intel";"windows";"1.3";58555
+496;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.17";47893
+497;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB SSD";"SSD";1024;0;"Intel";"windows";"1.48";93187
+498;"Lenovo";"Notebook";13.3;1920;1080;0;"Intel";"Core i3";2.4;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.4";50563
+499;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.3";48538
+500;"Asus";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.1;4;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"windows";"1.2";18115
+501;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.91";32980
+502;"Lenovo";"2 in 1 Convertible";13.9;1920;1080;1;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.4";85195
+503;"Lenovo";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.1;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.1";15931
+504;"Lenovo";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"16GB SSD";"SSD";16;0;"Intel";"other";"1.25";14119
+505;"Lenovo";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.44";50563
+506;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Intel";"windows";"2";65215
+507;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";32661
+508;"HP";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.34";70489
+509;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"N/A";"2.4";61219
+510;"Dell";"Ultrabook";13.3;1920;1080;1;"Intel";"Core i5";2.5;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.29";47899
+511;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;4;"500GB HDD";"HDD";500;0;"Nvidia";"windows";"2.2";34046
+512;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.18";44542
+513;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;16;"256GB SSD +  2TB HDD";"Hybrid";256;2048;"AMD";"windows";"2.2";64961
+514;"Xiaomi";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;16;"256GB SSD";"SSD";256;0;"Nvidia";"N/A";"1.95";74589
+515;"Asus";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.1;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.1";13054
+516;"HP";"Notebook";15.6;1366;768;1;"Intel";"Core i5";1.6;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.04";27784
+517;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;24;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.24";158135
+518;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.04";47366
+519;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3";80133
+520;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3.2";74539
+521;"HP";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.32";74539
+522;"Dell";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.64";68184
+523;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.63";36710
+524;"Dell";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";1.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"linux";"2.8";47366
+525;"Lenovo";"Notebook";24.0;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.02";71395
+526;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";42571
+527;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;8;"2TB HDD";"HDD";2048;0;"Nvidia";"N/A";"2.2";24456
+528;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.3";31169
+529;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.9";73367
+530;"Dell";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"4.42";160520
+531;"Toshiba";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.0";45821
+532;"Asus";"Notebook";15.6;3840;2160;0;"Intel";"Core i7";2.7;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2";69211
+533;"Mediacom";"Notebook";13.3;1920;1080;0;"Intel";"Celeron Quad";1.1;4;"32GB SSD";"SSD";32;0;"Intel";"windows";"1.2";19660
+534;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.3";87859
+535;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.93";72940
+536;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.2";42486
+537;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Pentium Quad";1.6;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.86";21258
+538;"HP";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;12;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.62";95851
+539;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.87";45768
+540;"Dell";"Ultrabook";13.3;3200;1800;1;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.2";74539
+541;"Dell";"Notebook";14.0;1920;1080;0;"Intel";"Core i3";2.0;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.6";39207
+542;"HP";"Ultrabook";13.3;3200;1800;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.34";61006
+543;"Acer";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"linux";"2.4";42517
+544;"Asus";"Notebook";15.6;1366;768;0;"AMD";"E-Series 7110";1.8;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2";18595
+545;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.4;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.1";37589
+546;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.87";41825
+547;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;4;"1TB HDD";"HDD";1024;0;"Intel";"N/A";"2.15";24634
+548;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.86";21152
+549;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.99";92121
+550;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.2";26587
+551;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.9";59513
+552;"Dell";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.42";143803
+553;"HP";"Notebook";17.3;1600;900;0;"Intel";"Core i3";2.0;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.65";28992
+554;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.63";68198
+555;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.1;4;"500GB HDD";"HDD";500;0;"Intel";"linux";"2";11935
+556;"Mediacom";"Notebook";13.3;1920;1080;0;"Intel";"Atom x5-Z8350";1.4;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.35";13586
+557;"Lenovo";"Notebook";17.3;1600;900;0;"Intel";"Core i7";2.7;6;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.8";50563
+558;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A10-Series A10-9620P";2.5;6;"128GB SSD";"SSD";128;0;"AMD";"windows";"1.91";30311
+559;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.18";32922
+560;"Acer";"2 in 1 Convertible";11.6;1920;1080;1;"Intel";"Celeron Dual";2.0;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.25";18595
+561;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.7;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.05";33566
+562;"HP";"Ultrabook";13.3;3200;1800;1;"Intel";"Core M";1.2;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.16";104695
+563;"Lenovo";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"3.4";159787
+564;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.5";44702
+565;"Dell";"Ultrabook";13.3;3840;2160;1;"Intel";"Core i5";1.6;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.21";85195
+566;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.93";51096
+568;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Pentium Quad";1.1;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.2";18328
+569;"Lenovo";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.02";52747
+570;"HP";"Workstation";17.3;1600;900;0;"Intel";"Core i5";2.8;8;"500GB HDD";"HDD";500;0;"Nvidia";"windows";"3.14";99154
+571;"HP";"Notebook";14.0;1366;768;0;"Intel";"Pentium Quad";1.6;8;"2TB HDD";"HDD";2048;0;"Intel";"windows";"1.94";20726
+572;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A9-Series A9-9420";3.0;6;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.95";34579
+573;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.3";44222
+574;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.05";36497
+575;"Mediacom";"Notebook";14.0;1920;1080;0;"Intel";"Atom x5-Z8350";1.4;4;"32GB SSD";"SSD";32;0;"Intel";"windows";"1.4";13267
+576;"Toshiba";"Ultrabook";14.0;1920;1080;1;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.24";99367
+577;"Lenovo";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.7;32;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.6";141885
+578;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.9;16;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"4.14";145401
+579;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"AMD";"linux";"2.2";39907
+580;"Mediacom";"Notebook";14.0;1920;1080;0;"Intel";"Celeron Quad";1.1;4;"32GB SSD";"SSD";32;0;"Intel";"windows";"1.45";20726
+581;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.6;8;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.9";53734
+582;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i3";2.4;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.49";38308
+583;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.93";81912
+584;"Dell";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"16GB Flash Storage";"Flash Storage";16;0;"Intel";"other";"1.26";15718
+585;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.7;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"4.5";125155
+586;"HP";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3.78";79813
+587;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.6;12;"256GB SSD";"SSD";256;0;"Intel";"windows";"8.4";89137
+588;"Lenovo";"Notebook";15.6;1366;768;1;"Intel";"Core i7";1.8;12;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.2";32448
+589;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.73";94306
+590;"Asus";"2 in 1 Convertible";15.6;1366;768;1;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.2";39374
+591;"Lenovo";"Notebook";15.6;1920;1080;0;"AMD";"A12-Series 9720P";3.6;12;"512GB SSD";"SSD";512;0;"AMD";"windows";"2.2";50563
+592;"Dell";"2 in 1 Convertible";31.6;1366;768;1;"Intel";"Core M";1.0;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.39";32128
+593;"Samsung";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.5";90523
+594;"Lenovo";"Notebook";17.3;1920;1080;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"N/A";"2.8";28185
+595;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.3;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.29";24456
+596;"Lenovo";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.37";107892
+597;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.7";78535
+598;"Dell";"2 in 1 Convertible";12.5;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.34";88978
+599;"Dell";"Workstation";15.6;1920;1080;1;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.06";93933
+600;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.84";64948
+601;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.1";35617
+602;"Acer";"Notebook";14.0;1920;1080;0;"Intel";"Celeron Quad";1.1;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.6";17529
+603;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.7;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"4.14";117163
+604;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"linux";"2.18";24775
+605;"MSI";"Gaming";15.6;3840;2160;0;"Intel";"Core i7";2.8;16;"256GB SSD +  2TB HDD";"Hybrid";256;2048;"Nvidia";"windows";"1.8";122491
+606;"Toshiba";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.2";74539
+607;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;6;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.4";30050
+608;"Lenovo";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2";69211
+609;"Acer";"Notebook";14.0;1366;768;0;"Intel";"Pentium Quad";1.6;4;"128GB Flash Storage";"Flash Storage";128;0;"Intel";"windows";"1.6";18595
+610;"Lenovo";"Notebook";15.6;3840;2160;0;"Intel";"Xeon E3-1535M";3.1;32;"1TB SSD";"SSD";1024;0;"Nvidia";"windows";"2.5";261019
+611;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;16;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.59";46834
+612;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"linux";"2.18";23651
+613;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"linux";"2.25";19128
+614;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.6;4;"500GB HDD";"HDD";500;0;"Intel";"linux";"1.93";46300
+615;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"3";62231
+617;"HP";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.84";74006
+618;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.94";120832
+619;"Acer";"2 in 1 Convertible";11.6;1366;768;1;"Intel";"Celeron Quad";1.6;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"other";"1.25";20193
+620;"HP";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.31";59887
+621;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.65";78055
+622;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.2";41345
+623;"Fujitsu";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.2";42571
+624;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.88";49657
+626;"Mediacom";"Notebook";14.0;1920;1080;0;"Intel";"Atom x5-Z8350";1.4;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.4";12734
+627;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"128GB SSD";"SSD";128;0;"Intel";"N/A";"2.2";24935
+628;"Asus";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.5;6;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.5";34046
+630;"Asus";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"11.1";101232
+631;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.62";78801
+632;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";1.6;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.8";44169
+633;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";30849
+634;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.1;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2";21259
+635;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"1.99";48305
+636;"Dell";"Ultrabook";13.3;3200;1800;1;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.23";99580
+637;"Lenovo";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.6;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.42";13267
+638;"Lenovo";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.37";93635
+639;"Dell";"Notebook";15.6;3840;2160;1;"Intel";"Core i7";2.8;16;"1TB SSD";"SSD";1024;0;"Nvidia";"windows";"2.06";127819
+640;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.5";59088
+641;"HP";"Notebook";17.0;1600;900;0;"AMD";"A9-Series 9420";3.0;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.6";27754
+642;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.14";130536
+643;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"N/A";"2.5";62284
+644;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.4";23976
+645;"Lenovo";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.6;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.43";14599
+646;"Acer";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.8";48964
+647;"Razer";"Gaming";14.0;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.95";138475
+648;"Toshiba";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.2";64629
+649;"Lenovo";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.36";84396
+650;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.7;32;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"3.8";149131
+651;"Acer";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"linux";"2.4";37776
+652;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";1.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.2";77251
+653;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.2";63499
+654;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"N/A";"1.86";19442
+655;"Toshiba";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.0";56690
+656;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"6.2";48964
+657;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;16;"256GB SSD +  2TB HDD";"Hybrid";256;2048;"AMD";"windows";"2.2";60473
+658;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"3.31";63723
+659;"Dell";"Gaming";17.3;3840;2160;0;"Intel";"Core i7";2.8;32;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"4.42";167692
+660;"Dell";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.4;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.56";65481
+661;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.1;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.2";22324
+662;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.2";28505
+663;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;6;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.04";28718
+664;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.7";79215
+665;"Toshiba";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.1;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.1";26533
+667;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.1";39694
+668;"Toshiba";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.0";67026
+669;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"128GB SSD";"SSD";128;0;"Intel";"linux";"2.1";21951
+670;"Microsoft";"Ultrabook";13.5;2256;1504;1;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.252";99519
+671;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"windows";"1.90";43580
+672;"Lenovo";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.3";55092
+673;"Lenovo";"Notebook";35.6;1366;768;0;"AMD";"E-Series E2-9000";2.2;4;"128GB SSD";"SSD";128;0;"AMD";"windows";"2.2";18595
+674;"HP";"2 in 1 Convertible";14.0;1920;1080;1;"Intel";"Core i3";2.4;4;"128GB SSD";"SSD";128;0;"Nvidia";"windows";"1.63";37243
+675;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.4";68944
+676;"Asus";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.1";60473
+677;"HP";"2 in 1 Convertible";11.6;1366;768;1;"Intel";"Celeron Dual";1.1;8;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"other";"1.4";26374
+678;"LG";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";1.8;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.09";122491
+679;"Acer";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;16;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.5";69211
+680;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.2";53168
+681;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.1;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.86";22324
+682;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"3.21";109277
+683;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i3";2.0;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.5";37243
+684;"Lenovo";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";1.8;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.19";79867
+685;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.9;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3.49";149917
+686;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"1.86";32640
+687;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.2";29073
+688;"HP";"Notebook";17.3;1920;1080;0;"AMD";"A10-Series 9600P";2.4;6;"2TB HDD";"HDD";2048;0;"AMD";"windows";"2.65";30316
+689;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.1";16943
+690;"Acer";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.6;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"other";"1.45";19980
+691;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.7";37243
+692;"HP";"Workstation";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"500GB HDD";"HDD";500;0;"Nvidia";"windows";"3.14";101658
+693;"Lenovo";"2 in 1 Convertible";14.0;2560;1440;1;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.42";137995
+694;"Toshiba";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.5";51841
+695;"Acer";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.4";14332
+696;"Lenovo";"2 in 1 Convertible";14.0;1920;1080;1;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.38";93187
+697;"Asus";"2 in 1 Convertible";12.5;1920;1080;1;"Intel";"Core M";0.9;4;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"other";"1.2";35644
+698;"Toshiba";"Ultrabook";13.3;1920;1080;1;"Intel";"Core i7";2.5;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.36";100007
+700;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.56";43636
+701;"Lenovo";"Notebook";15.6;1920;1080;0;"AMD";"A9-Series 9420";2.9;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.2";21259
+702;"Lenovo";"Notebook";15.6;1366;768;0;"AMD";"A12-Series 9720P";3.6;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.2";22857
+703;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"1TB HDD +  1TB HDD";"HDD";1024;1024;"Intel";"windows";"2.1";33111
+704;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"N/A";"1.90";23976
+705;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.18";42358
+706;"Acer";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";1.6;1;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";53227
+707;"Lenovo";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.5;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.18";98834
+708;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.8";63456
+709;"HP";"Notebook";17.3;1920;1080;0;"AMD";"A10-Series 9620P";2.5;6;"2TB HDD";"HDD";2048;0;"AMD";"windows";"2.71";34899
+710;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.5";66547
+711;"Dell";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"linux";"1.64";58022
+712;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Intel";"linux";"1.98";38681
+713;"Asus";"Notebook";14.0;1920;1080;0;"Intel";"Celeron Dual";1.1;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.5";15877
+714;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.6;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.93";76012
+715;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.87";45665
+716;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.9";62817
+717;"Lenovo";"Notebook";15.6;1366;768;0;"AMD";"A6-Series 7310";2.0;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.19";15877
+718;"Mediacom";"Notebook";14.0;1920;1200;0;"Intel";"Atom Z8350";1.9;4;"32GB HDD";"HDD";32;0;"Intel";"windows";"1.4";14119
+719;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.63";63936
+720;"Lenovo";"Ultrabook";14.0;2560;1440;0;"Intel";"Core i7";2.5;64;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.17";89864
+721;"HP";"2 in 1 Convertible";13.3;1366;768;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.58";44574
+722;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.32";79867
+723;"Dell";"Gaming";17.3;3840;2160;0;"Intel";"Core i7";2.8;32;"1TB SSD +  1TB HDD";"Hybrid";1024;1024;"Nvidia";"windows";"4.36";194973
+724;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.7";71847
+725;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Intel";"N/A";"1.9";26102
+727;"Dell";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i3";2.4;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.71";34579
+728;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"AMD";"linux";"2.32";31410
+729;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A9-Series 9420";3.0;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.1";26054
+730;"Acer";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"4.2";103097
+731;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;12;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.25";34579
+732;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A9-Series A9-9420";3.0;6;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"windows";"2.1";34632
+733;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.4";29784
+734;"Lenovo";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.44";51149
+735;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.85";41505
+736;"HP";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.6";128884
+737;"Dell";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";1.6;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.55";35112
+738;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"1.8";111594
+739;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.4";21887
+740;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.0";64309
+741;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2";35431
+742;"Toshiba";"Notebook";14.0;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.25";81785
+743;"Lenovo";"2 in 1 Convertible";14.0;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.7";53227
+744;"Lenovo";"Workstation";15.6;3840;2160;0;"Intel";"Core i7";2.8;16;"1TB SSD";"SSD";1024;0;"Nvidia";"windows";"2.5";175771
+745;"Acer";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.6;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"other";"1.68";17582
+746;"Samsung";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";2.7;16;"256GB SSD";"SSD";256;0;"Intel";"windows";"0.81";87859
+748;"Dell";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";60031
+749;"HP";"Workstation";17.3;1920;1080;0;"Intel";"Xeon E3-1535M";2.9;16;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"3";233846
+750;"Lenovo";"Netbook";11.6;1366;768;1;"Intel";"Celeron Dual";1.6;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.4";25308
+751;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.4;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.84";101232
+752;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"1TB HDD";"HDD";1024;0;"Nvidia";"N/A";"2.45";30849
+754;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.7;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.37";45283
+755;"Lenovo";"2 in 1 Convertible";13.3;3200;1800;1;"Intel";"Core i5";1.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.3";63883
+756;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.2";58555
+757;"HP";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.59";83170
+758;"Dell";"Gaming";15.6;3840;2160;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.42";152860
+759;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.1";31915
+760;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.5";55837
+761;"Dell";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.18";99048
+762;"Google";"Ultrabook";12.3;2400;1600;1;"Intel";"Core i5";1.2;8;"256GB SSD";"SSD";256;0;"Intel";"other";"1.1";83064
+763;"Asus";"Ultrabook";13.3;3200;1800;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.2";60153
+764;"Dell";"Notebook";13.3;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.65";45235
+765;"Acer";"Notebook";13.3;1366;768;0;"Intel";"Core i5";2.3;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.6";34898
+766;"Asus";"Notebook";17.3;1366;768;0;"Intel";"Pentium Quad";1.1;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.8";25060
+767;"Dell";"Gaming";15.6;3840;2160;1;"Intel";"Core i7";2.6;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.72";58555
+768;"Samsung";"Ultrabook";13.3;1920;1080;1;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.31";85195
+769;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"linux";"2.1";15877
+770;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;16;"?";"";0;0;"AMD";"windows";"2.3";62938
+771;"Samsung";"2 in 1 Convertible";15.0;1920;1080;1;"Intel";"Core i7";2.7;16;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.71";95851
+772;"Toshiba";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.3;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.75";54346
+773;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.62";58555
+775;"Asus";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i7";2.7;12;"2TB HDD";"HDD";2048;0;"Nvidia";"windows";"2.3";44702
+776;"Lenovo";"Notebook";15.6;3840;2160;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.5";126274
+777;"Acer";"Notebook";14.0;1920;1080;0;"Intel";"Core i3";2.4;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.8";33886
+778;"Razer";"Gaming";14.0;1920;1080;0;"Intel";"Core i7";2.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"1.95";154459
+779;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Pentium Dual";1.1;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"2";31004
+780;"Dell";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;32;"1TB SSD +  1TB HDD";"Hybrid";1024;1024;"Nvidia";"windows";"4.42";191211
+781;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.3";125208
+782;"Toshiba";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.6;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"1.47";93986
+783;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Celeron Quad";1.6;8;"1TB HDD";"HDD";1024;0;"Intel";"N/A";"2.2";17529
+784;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.7";122491
+785;"MSI";"Gaming";14.0;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"1.6";100752
+786;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.2";58022
+787;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.4";53227
+788;"Acer";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.2";122491
+789;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.62";52481
+790;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.24";71342
+791;"Vero";"Notebook";14.0;1920;1080;0;"Intel";"Celeron Dual";1.1;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.22";10811
+792;"Lenovo";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.37";104962
+793;"Lenovo";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.08";51096
+794;"Apple";"Ultrabook";12.0;2304;1440;0;"Intel";"Core M";1.2;8;"512GB Flash Storage";"Flash Storage";512;0;"Intel";"macos";"0.920";62071
+795;"Lenovo";"2 in 1 Convertible";14.0;2560;1440;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.42";124142
+796;"Asus";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.1;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.63";15931
+797;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.95";43157
+798;"Lenovo";"2 in 1 Convertible";13.9;1920;1080;1;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.38";71875
+799;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2";39374
+800;"HP";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"3.14";110018
+801;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.37";58555
+802;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.29";79867
+803;"Dell";"Notebook";15.6;3840;2160;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.06";93187
+804;"Dell";"Netbook";11.6;1366;768;0;"Intel";"Pentium Quad";1.1;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.63";39640
+805;"HP";"Netbook";12.5;1366;768;0;"Intel";"Core i5";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.26";74006
+806;"Toshiba";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.1";41558
+807;"HP";"Notebook";15.6;1366;768;0;"AMD";"A12-Series 9700P";2.5;8;"2TB HDD";"HDD";2048;0;"AMD";"windows";"2.04";33513
+808;"Dell";"Gaming";15.6;3840;2160;0;"Intel";"Core i7";2.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.62";89457
+809;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.4";32448
+810;"HP";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;12;"1TB HDD";"HDD";1024;0;"AMD";"windows";"3.74";93187
+811;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"2.9";128671
+812;"Samsung";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"0.81";79867
+813;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"1.98";51202
+814;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.18";42081
+815;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.32";99048
+816;"Razer";"Ultrabook";12.5;3840;2160;1;"Intel";"Core i7";2.5;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.29";95851
+817;"HP";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"16GB Flash Storage";"Flash Storage";16;0;"Intel";"other";"1.23";20513
+818;"Dell";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"4.36";133467
+819;"Dell";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.76";40226
+820;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.1";26102
+821;"Toshiba";"Ultrabook";14.0;1366;768;0;"Intel";"Core i5";2.5;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.25";58075
+822;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.13";133147
+823;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.4";63883
+824;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB Flash Storage";"Flash Storage";256;0;"Intel";"windows";"1.13";99900
+825;"Toshiba";"Notebook";14.0;1366;768;0;"Intel";"Pentium Dual";2.1;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.75";26587
+826;"Asus";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.1";72354
+827;"Dell";"Notebook";14.0;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.76";31169
+828;"Acer";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"other";"1.35";18914
+829;"Acer";"Notebook";14.0;1920;1080;0;"Intel";"Core i3";2.4;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.5";32980
+830;"Razer";"Gaming";17.3;3840;2160;1;"Intel";"Core i7";2.9;32;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"3.49";292987
+831;"Lenovo";"Ultrabook";14.0;2560;1440;0;"Intel";"Core i7";2.6;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.1";111835
+832;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Nvidia";"linux";"2.1";27652
+833;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.7";63190
+834;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.32";87912
+835;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3.21";147832
+836;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.9";128884
+837;"Toshiba";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.0";35644
+838;"Lenovo";"Notebook";14.0;1366;768;0;"Intel";"Celeron Quad";1.6;4;"16GB Flash Storage";"Flash Storage";16;0;"Intel";"other";"1.5";17316
+839;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB HDD";"HDD";128;0;"Intel";"windows";"2.3";31435
+840;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;16;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"2.73";95851
+841;"Dell";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;32;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"4.42";163724
+842;"HP";"Notebook";17.3;1600;900;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.63";48485
+843;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.18";38041
+844;"HP";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.5;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.54";99634
+845;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.18";39374
+846;"HP";"2 in 1 Convertible";11.6;1366;768;1;"Intel";"Celeron Dual";1.1;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"other";"1.4";32767
+847;"Asus";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";2.3;8;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"1.45";54665
+848;"HP";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.28";121319
+849;"HP";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.5;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.54";78215
+850;"HP";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"128GB SSD";"SSD";128;0;"Intel";"N/A";"1.86";15931
+851;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.1";101179
+852;"Dell";"Notebook";17.3;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"AMD";"linux";"2.83";46087
+853;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.96";101392
+854;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.3";41931
+855;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.9";50350
+856;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2";23923
+857;"HP";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.28";136344
+858;"Dell";"Notebook";13.3;1920;1080;1;"Intel";"Core i5";2.3;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.62";34579
+859;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"N/A";"2.2";24988
+860;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.3";45323
+861;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.6;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.84";71875
+862;"Toshiba";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.05";68465
+863;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"N/A";"2.5";54186
+864;"Dell";"Ultrabook";13.3;3200;1800;1;"Intel";"Core i7";2.5;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.29";119347
+865;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.07";48485
+866;"Toshiba";"Ultrabook";13.3;1366;768;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.2";58342
+867;"Lenovo";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.37";103896
+868;"Acer";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.56";48059
+869;"Dell";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.23";94732
+870;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.38";56210
+871;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"N/A";"2.2";25521
+872;"Toshiba";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.0";73953
+873;"Lenovo";"Notebook";13.3;1920;1080;0;"Intel";"Core i3";2.4;4;"180GB SSD";"SSD";180;0;"Intel";"windows";"1.44";39161
+874;"Samsung";"Ultrabook";15.0;1920;1080;0;"Intel";"Core i7";2.7;16;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.23";98515
+875;"Dell";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";90043
+876;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"linux";"2";21258
+877;"Xiaomi";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.28";49817
+878;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.18";48618
+879;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.04";44702
+880;"HP";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.28";90576
+881;"HP";"2 in 1 Convertible";15.6;1366;768;1;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.3";36486
+882;"Asus";"Notebook";14.1;1366;768;0;"Intel";"Celeron Dual";1.1;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.65";18541
+883;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";35644
+884;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.2";19660
+885;"HP";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.28";95851
+886;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"linux";"2.18";24280
+887;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i5";2.5;12;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.2";72988
+888;"Acer";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"other";"1.25";15824
+889;"Lenovo";"Notebook";17.3;1600;900;0;"AMD";"A4-Series 7210";2.2;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.8";20193
+890;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.95";67399
+891;"HP";"2 in 1 Convertible";13.3;3200;1800;1;"Intel";"Core i7";2.7;16;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.42";74539
+892;"Samsung";"Ultrabook";15.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.17";90523
+893;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.32";95851
+894;"MSI";"Gaming";17.3;3840;2160;0;"Intel";"Core i7";2.6;16;"512GB SSD +  2TB HDD";"Hybrid";512;2048;"Nvidia";"windows";"2.43";141139
+895;"Toshiba";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.05";78588
+896;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"linux";"2.62";49497
+897;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.04";47952
+898;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.18";32714
+899;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.6;8;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.9";49817
+900;"Dell";"2 in 1 Convertible";13.3;3200;1800;1;"Intel";"Core i7";1.3;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.24";107258
+901;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.7;32;"256GB SSD +  256GB SSD";"SSD";256;256;"Nvidia";"windows";"3.58";68145
+902;"Dell";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";1.3;16;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.22";87859
+903;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB Flash Storage";"Flash Storage";256;0;"Intel";"windows";"1.13";109171
+904;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.95";104588
+905;"LG";"Ultrabook";15.6;1920;1080;1;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.08";111835
+906;"HP";"Netbook";12.5;1920;1080;0;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.26";79014
+907;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Celeron Dual";1.5;4;"16GB Flash Storage";"Flash Storage";16;0;"Intel";"other";"2.20";19128
+908;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.6";42038
+909;"LG";"Ultrabook";14.0;1920;1080;1;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"0.98";101179
+910;"Dell";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";64202
+911;"HP";"Ultrabook";12.5;3840;2160;1;"Intel";"Core M";1.2;8;"240GB SSD";"SSD";240;0;"Intel";"windows";"1.09";165168
+912;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;6;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.2";42038
+913;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.04";54292
+914;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.4;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.4";26587
+915;"Lenovo";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.44";46940
+916;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.49";51149
+917;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.7";85195
+918;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.6";71875
+919;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.2";59669
+920;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.18";36496
+921;"HP";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.84";69104
+924;"Lenovo";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.5;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.37";97236
+925;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.95";38889
+926;"Lenovo";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.36";87912
+927;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.31";62071
+928;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.18";37725
+929;"HP";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.95";61219
+930;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.2";16464
+931;"HP";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.26";84129
+932;"HP";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"1TB HDD";"HDD";1024;0;"Intel";"N/A";"1.86";15393
+933;"Lenovo";"2 in 1 Convertible";13.3;3200;1800;1;"Intel";"Core i7";2.2;16;"1TB SSD";"SSD";1024;0;"Intel";"windows";"1.3";95851
+934;"Toshiba";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.47";58874
+935;"HP";"Netbook";12.5;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.26";88924
+936;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.18";29762
+937;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.2";63883
+939;"Dell";"Gaming";17.3;2560;1440;0;"Intel";"Core i7";2.7;16;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"4.36";146946
+940;"HP";"Gaming";17.3;1920;1080;0;"Intel";"Core i5";2.3;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.75";74539
+941;"Asus";"Notebook";17.3;1600;900;0;"Intel";"Pentium Quad";1.6;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.8";28238
+942;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.23";32980
+943;"Toshiba";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.2";59620
+944;"Lenovo";"2 in 1 Convertible";11.3;1920;1080;1;"Intel";"Core M";1.2;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.1";69211
+945;"Lenovo";"Gaming";15.6;1920;1080;0;"AMD";"FX 8800P";2.1;16;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"AMD";"windows";"2.5";53227
+946;"Dell";"Ultrabook";12.5;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.36";78439
+947;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"Nvidia";"N/A";"2.2";36497
+948;"Dell";"Notebook";17.3;1600;900;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.36";35112
+949;"Acer";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.6;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"other";"1.68";18595
+950;"HP";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"8GB SSD";"SSD";8;0;"Nvidia";"windows";"2.0";119827
+951;"Dell";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.36";94572
+952;"Toshiba";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.2";77789
+953;"Asus";"2 in 1 Convertible";12.5;1920;1080;0;"Intel";"Core M";1.2;8;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"other";"1.2";61752
+954;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.7";79333
+955;"Dell";"Gaming";17.3;3840;2160;0;"Intel";"Core i7";2.8;16;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"4.36";168045
+956;"Dell";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";1.2;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.24";101179
+957;"HP";"2 in 1 Convertible";11.6;1366;768;1;"Intel";"Pentium Quad";1.1;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.45";41292
+958;"Dell";"Ultrabook";13.3;3200;1800;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.3";67559
+959;"Acer";"2 in 1 Convertible";11.6;1366;768;1;"Intel";"Celeron Dual";1.6;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"other";"1.25";20726
+960;"Toshiba";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.4;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.2";81785
+961;"Lenovo";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i5";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.36";93773
+962;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;12;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.4";53760
+963;"Toshiba";"Ultrabook";12.5;1920;1080;1;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.1";95371
+964;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.04";45102
+965;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"linux";"2.25";24808
+966;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.9";43956
+967;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.4;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.04";36497
+968;"Dell";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;32;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.42";167779
+969;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;6;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.4";37030
+970;"Dell";"2 in 1 Convertible";13.3;3200;1800;1;"Intel";"Core i7";1.3;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.22";101179
+971;"Dell";"Ultrabook";14.0;2560;1440;1;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.5";104588
+972;"Dell";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;32;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.42";149184
+973;"Toshiba";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.95";62870
+974;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.73";109219
+975;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.7;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.04";52161
+976;"Lenovo";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.3;4;"508GB Hybrid";"Hybrid";508;0;"Intel";"windows";"1.70";53387
+977;"Asus";"2 in 1 Convertible";15.6;3840;2160;1;"Intel";"Core i7";2.7;16;"512GB SSD +  2TB HDD";"Hybrid";512;2048;"Nvidia";"windows";"2.3";95851
+979;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.99";93187
+980;"Dell";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i7";2.7;12;"512GB SSD";"SSD";512;0;"Intel";"windows";"2.19";69211
+981;"Toshiba";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.3;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.2";63670
+982;"Lenovo";"Notebook";15.6;1920;1080;0;"AMD";"A12-Series 9720P";3.6;6;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.2";29251
+983;"Fujitsu";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.3";34579
+984;"Toshiba";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.75";48751
+985;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.25";31915
+986;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.04";42944
+987;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.5";63350
+988;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.36";39907
+989;"Dell";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.6";59620
+990;"HP";"Netbook";12.5;1920;1080;0;"Intel";"Core M";1.2;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"0.97";101658
+991;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"AMD";"windows";"2.1";26587
+992;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.1;4;"128GB SSD";"SSD";128;0;"Intel";"N/A";"1.9";14419
+993;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.3";71875
+995;"Asus";"Notebook";13.3;3200;1800;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.4";61272
+996;"HP";"Ultrabook";13.3;1920;1080;1;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.11";71875
+997;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.1;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.4";20246
+998;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.5";95851
+999;"HP";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.48";111302
+1000;"Acer";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.7";67133
+1001;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.34";63350
+1002;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.18";29144
+1003;"HP";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.64";41505
+1004;"Toshiba";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.3;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.2";63670
+1005;"HP";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.4;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.48";58607
+1006;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.95";64202
+1007;"HP";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.43";77203
+1008;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.64";55905
+1009;"HP";"Notebook";14.0;1366;768;0;"Intel";"Core i3";2.4;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.64";36444
+1010;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1.0TB Hybrid";"Hybrid";1024;0;"Nvidia";"windows";"2.65";50563
+1011;"HP";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.26";81998
+1012;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.48";84715
+1013;"HP";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.54";100551
+1014;"HP";"Notebook";13.3;1366;768;0;"Intel";"Core i3";2.4;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.49";42624
+1015;"Toshiba";"Notebook";13.3;1366;768;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.5";64469
+1016;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.04";41025
+1017;"Lenovo";"Notebook";17.3;3840;2160;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.4";158135
+1018;"Toshiba";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.47";79387
+1019;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.43";118761
+1020;"Dell";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i3";2.3;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.08";42410
+1021;"Toshiba";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.2";84715
+1022;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.11";61219
+1023;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.64";63160
+1024;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.4;8;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.09";55754
+1025;"HP";"Ultrabook";12.5;1366;768;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.26";83064
+1026;"HP";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.31";63350
+1027;"HP";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.95";56477
+1028;"Dell";"Ultrabook";13.3;3200;1800;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.29";86527
+1029;"HP";"Notebook";17.3;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.63";57542
+1030;"HP";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.64";51841
+1031;"Acer";"Notebook";15.6;1366;768;0;"AMD";"A9-Series 9420";3.0;6;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.1";21792
+1032;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.7";63499
+1033;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.95";63670
+1034;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.84";65481
+1035;"HP";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.26";71875
+1036;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.04";39534
+1037;"Toshiba";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.47";91908
+1038;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.4;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.09";56634
+1039;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.64";53840
+1040;"Lenovo";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i7";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.8";45128
+1041;"Vero";"Notebook";14.0;1366;768;0;"Intel";"Atom X5-Z8350";1.4;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.45";11231
+1042;"Toshiba";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.5;16;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.4";75924
+1043;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.3";55923
+1044;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.54";53280
+1045;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.4;8;"256GB SSD +  500GB HDD";"Hybrid";256;500;"Intel";"windows";"1.84";112066
+1046;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.43";78268
+1047;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.7;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3.78";82352
+1048;"Lenovo";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"4.6";122011
+1049;"Asus";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"16GB Flash Storage";"Flash Storage";16;0;"Intel";"other";"1.2";15339
+1050;"Lenovo";"Notebook";14.0;2560;1440;0;"Intel";"Core i7";2.6;16;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.1";139594
+1051;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"1.91";52161
+1052;"Dell";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i5";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.3";58288
+1053;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.04";52161
+1054;"Dell";"Ultrabook";13.3;3200;1800;1;"Intel";"Core i7";2.7;16;"1TB SSD";"SSD";1024;0;"Intel";"windows";"1.2";120093
+1055;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.31";37570
+1056;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"N/A";"1.96";26587
+1057;"Acer";"Notebook";15.6;1366;768;0;"AMD";"A8-Series 7410";2.2;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.4";23923
+1058;"Dell";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";2.7;12;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";69211
+1059;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.94";96916
+1061;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;16;"1TB HDD";"HDD";1024;0;"Nvidia";"N/A";"4";53173
+1062;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.25";29784
+1063;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;16;"2TB HDD";"HDD";2048;0;"AMD";"windows";"2.32";52747
+1064;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"1.8";102777
+1065;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.29";77682
+1066;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.7;64;"1TB SSD";"SSD";1024;0;"Nvidia";"windows";"3.58";211788
+1067;"Dell";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.62";42518
+1068;"Dell";"Gaming";15.6;3840;2160;0;"Intel";"Core i7";2.6;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3.21";70809
+1069;"Apple";"Ultrabook";12.0;2304;1440;0;"Intel";"Core M";1.1;8;"256GB Flash Storage";"Flash Storage";256;0;"Intel";"macos";"0.920";69264
+1070;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.06";25680
+1071;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.31";63883
+1072;"HP";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.26";63883
+1073;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.49";58075
+1074;"Lenovo";"Ultrabook";12.5;1920;1080;1;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.3";91295
+1075;"Lenovo";"Notebook";17.3;1600;900;0;"Intel";"Core i5";2.3;8;"1.0TB HDD";"HDD";1024;0;"AMD";"windows";"3.0";35112
+1076;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.3";52055
+1077;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3.78";133147
+1078;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.1";28771
+1079;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.31";50083
+1080;"Lenovo";"Ultrabook";12.5;2560;1440;1;"Intel";"Core M";1.2;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"0.99";74539
+1081;"Lenovo";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.7;32;"512GB SSD +  1.0TB Hybrid";"SSD";512;1024;"Nvidia";"windows";"4.6";172627
+1082;"Lenovo";"2 in 1 Convertible";10.1;1920;1200;1;"Intel";"Atom x5-Z8550";1.4;4;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"windows";"0.69";34433
+1083;"HP";"Ultrabook";13.3;3840;2160;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.3";109171
+1084;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.18";39960
+1085;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.54";54931
+1086;"HP";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.9";79654
+1087;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;8;"180GB SSD";"SSD";180;0;"Intel";"windows";"1.7";63883
+1088;"HP";"Notebook";13.3;3200;1800;0;"Intel";"Pentium Dual";1.5;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"other";"1.29";32767
+1089;"Acer";"Notebook";15.6;1366;768;0;"AMD";"A8-Series 7410";2.2;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.4";20619
+1090;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"linux";"2.2";20965
+1091;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"N/A";"1.86";18434
+1092;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.7";85195
+1093;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i5";1.6;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.4";43602
+1094;"HP";"Netbook";12.5;1366;768;0;"Intel";"Core i5";2.3;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.4";85195
+1095;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.4";42571
+1096;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.36";34035
+1097;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.6";85195
+1098;"HP";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.6;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"1.96";26640
+1099;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"4.3";122491
+1100;"Dell";"Ultrabook";12.5;1366;768;0;"Intel";"Core i3";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.5";60481
+1101;"Dell";"Ultrabook";12.5;1366;768;0;"Intel";"Core i3";2.3;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.5";62176
+1102;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.5;4;"16GB SSD";"SSD";16;0;"Intel";"other";"2.20";11136
+1103;"HP";"Workstation";17.3;1920;1080;0;"Intel";"Core i7";2.6;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"3.0";154459
+1104;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.4";63883
+1105;"Dell";"Ultrabook";12.5;1366;768;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.5";75290
+1106;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.9";80516
+1107;"Lenovo";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i5";2.3;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.1";46194
+1108;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A6-Series 9220";2.5;4;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.1";21205
+1109;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.59";71342
+1110;"HP";"Notebook";13.3;3200;1800;1;"Intel";"Core M";1.1;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.16";90523
+1111;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.24";40980
+1112;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"2.1";22857
+1113;"HP";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";2.5;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.16";104908
+1114;"Lenovo";"2 in 1 Convertible";10.1;1920;1200;1;"Intel";"Atom x5-Z8550";1.4;4;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"other";"0.69";29251
+1115;"Dell";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";2.4;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.23";73473
+1116;"Lenovo";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.7;16;"256GB SSD +  1.0TB Hybrid";"SSD";256;1024;"Nvidia";"windows";"4.6";146519
+1117;"Razer";"Ultrabook";12.5;3840;2160;1;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.25";54825
+1118;"Toshiba";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.05";118601
+1119;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"3.52";69929
+1120;"Vero";"Notebook";13.3;1920;1080;0;"Intel";"Atom X5-Z8350";1.4;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.35";10443
+1121;"HP";"Notebook";13.3;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.16";90043
+1122;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.43";80613
+1123;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"linux";"2.09";27899
+1124;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2";23177
+1125;"Lenovo";"2 in 1 Convertible";14.0;1920;1080;1;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.8";88924
+1126;"Lenovo";"2 in 1 Convertible";10.1;1920;1200;1;"Intel";"Atom x5-Z8550";1.4;4;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"windows";"0.69";25521
+1127;"HP";"Ultrabook";12.5;1366;768;0;"Intel";"Core i5";2.4;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.26";100966
+1128;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"N/A";"2.4";52694
+1129;"HP";"Gaming";17.3;1920;1080;0;"Intel";"Core i5";2.3;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"3.35";60153
+1130;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.7;8;"2TB HDD";"HDD";2048;0;"Intel";"windows";"2.04";33513
+1131;"Lenovo";"2 in 1 Convertible";14.0;1920;1080;1;"Intel";"Core i7";2.6;8;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"1.8";109244
+1132;"Asus";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.1;4;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.5";14812
+1133;"HP";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.84";40067
+1134;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.23";32820
+1135;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.5;16;"1.0TB Hybrid";"Hybrid";1024;0;"AMD";"windows";"2.5";58555
+1136;"HP";"Workstation";17.3;1920;1080;0;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"3";210424
+1137;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.5";41772
+1138;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.7;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"3.78";127819
+1139;"HP";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.88";115709
+1140;"Lenovo";"2 in 1 Convertible";14.0;2560;1440;1;"Intel";"Core i7";2.6;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"2.8";130003
+1141;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.4";60888
+1142;"HP";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.4;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.48";86793
+1143;"HP";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.59";118761
+1144;"HP";"2 in 1 Convertible";13.3;2560;1440;1;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.48";95851
+1145;"HP";"Workstation";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.0";101179
+1146;"HP";"Ultrabook";12.5;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.26";122381
+1147;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.18";53807
+1148;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.88";84129
+1149;"Lenovo";"2 in 1 Convertible";14.0;2560;1440;1;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.27";124622
+1150;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"N/A";"1.9";18062
+1151;"HP";"Notebook";15.6;1366;768;0;"AMD";"E-Series 7110";1.8;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"1.86";15824
+1152;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;8;"1TB HDD";"HDD";1024;0;"AMD";"N/A";"2.32";31915
+1153;"Dell";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.62";63883
+1154;"Dell";"Notebook";15.6;3840;2160;1;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.04";119916
+1155;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A6-Series A6-9220";2.5;4;"256GB SSD";"SSD";256;0;"AMD";"windows";"1.91";25515
+1156;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.7";79536
+1157;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.6;12;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.4";122491
+1158;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.3;8;"1.0TB Hybrid";"Hybrid";1024;0;"AMD";"windows";"2.5";42011
+1159;"HP";"2 in 1 Convertible";13.3;2560;1440;1;"Intel";"Core i7";2.6;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.48";108744
+1160;"Lenovo";"Ultrabook";14.0;1920;1080;0;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.7";79867
+1161;"MSI";"Gaming";14.0;1920;1080;0;"Intel";"Core i7";2.6;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"1.7";94252
+1162;"HP";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.62";47899
+1163;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.2";24456
+1164;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"N/A";"2.1";25414
+1165;"Dell";"Gaming";15.6;3840;2160;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.62";79813
+1166;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.95";74059
+1167;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";24935
+1168;"HP";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.6;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.44";13267
+1169;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";44702
+1170;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.96";36177
+1171;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";1.8;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"2.1";61752
+1172;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.2";19660
+1173;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"N/A";"2.1";21205
+1174;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"Nvidia";"N/A";"2.2";37776
+1175;"Asus";"Notebook";14.0;1920;1080;0;"Intel";"Core i3";2.4;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"2";40972
+1176;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.5;4;"1.0TB Hybrid";"Hybrid";1024;0;"Intel";"windows";"2.32";43956
+1177;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"3.31";69530
+1178;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"1.91";114732
+1179;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.07";34632
+1180;"Lenovo";"2 in 1 Convertible";14.0;2560;1440;1;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.36";87219
+1181;"Lenovo";"Ultrabook";15.6;1920;1080;0;"Intel";"Core i7";2.7;6;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"1.54";44276
+1182;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Nvidia";"linux";"1.98";47686
+1183;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.1";17742
+1184;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.6;6;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.18";42571
+1185;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.591";48432
+1186;"Dell";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"2.09";62817
+1187;"Acer";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;4;"256GB SSD";"SSD";256;0;"Nvidia";"windows";"2.23";36816
+1188;"Dell";"Ultrabook";13.3;3200;1800;1;"Intel";"Core i5";2.4;8;"256GB SSD";"SSD";256;0;"Intel";"linux";"1.23";58555
+1189;"Acer";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"4.2";138475
+1190;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.4";43636
+1191;"Samsung";"2 in 1 Convertible";12.3;2400;1600;1;"Samsung";"Cortex A72&A53";2.0;4;"32GB Flash Storage";"Flash Storage";32;0;"ARM";"other";"1.15";35112
+1192;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.86";25841
+1193;"Apple";"Ultrabook";12.0;2304;1440;0;"Intel";"Core M";1.1;8;"256GB Flash Storage";"Flash Storage";256;0;"Intel";"macos";"0.920";61965
+1194;"Dell";"2 in 1 Convertible";13.3;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.6";63883
+1195;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.8;12;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.21";70703
+1196;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"AMD";"N/A";"1.9";19607
+1197;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;16;"512GB SSD +  1TB HDD";"Hybrid";512;1024;"Nvidia";"windows";"4.3";114552
+1198;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"linux";"2.1";14492
+1199;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.43";109165
+1200;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"128GB SSD";"SSD";128;0;"AMD";"windows";"2.3";26587
+1201;"Lenovo";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.5;8;"500GB HDD";"HDD";500;0;"Nvidia";"N/A";"2.2";33513
+1203;"Dell";"Ultrabook";13.3;3200;1800;1;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.2";142790
+1204;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.2";62284
+1205;"Dell";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.36";47366
+1206;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.91";30849
+1207;"Lenovo";"Notebook";15.6;1366;768;0;"AMD";"E-Series 9000";2.2;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"2.2";15931
+1208;"Acer";"Notebook";17.3;1600;900;0;"Intel";"Core i3";2.0;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"3.3";33513
+1209;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.2";130483
+1210;"Apple";"Ultrabook";12.0;2304;1440;0;"Intel";"Core M";1.2;8;"512GB Flash Storage";"Flash Storage";512;0;"Intel";"macos";"0.920";68145
+1211;"Asus";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.8;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.2";93187
+1212;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.43";103842
+1213;"Dell";"2 in 1 Convertible";15.6;1920;1080;1;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.191";53227
+1214;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.9";103843
+1215;"Acer";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.5;2;"32GB SSD";"SSD";32;0;"Intel";"other";"1.3";9271
+1216;"Acer";"Notebook";17.3;1600;900;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"3.3";31861
+1217;"Lenovo";"Notebook";17.3;1600;900;0;"Intel";"Core i5";2.5;8;"1TB HDD";"HDD";1024;0;"Intel";"N/A";"2.8";28718
+1218;"Lenovo";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.6";67772
+1219;"Acer";"2 in 1 Convertible";14.0;1920;1080;1;"Intel";"Core i7";1.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.2";61219
+1220;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"2.3";81465
+1221;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.2";78647
+1222;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A12-Series 9720P";2.7;6;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.1";28185
+1223;"Dell";"Ultrabook";12.5;1920;1080;1;"Intel";"Core i5";2.4;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.26";91288
+1224;"Dell";"2 in 1 Convertible";15.0;1920;1080;1;"Intel";"Core i3";2.4;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.08";27120
+1225;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.6;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.65";16464
+1226;"Dell";"Ultrabook";13.3;3200;1800;1;"Intel";"Core i7";2.7;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.29";78695
+1227;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.5;4;"1TB HDD";"HDD";1024;0;"Intel";"linux";"2.18";27805
+1228;"Lenovo";"Gaming";15.6;1920;1080;1;"Intel";"Core i7";2.6;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.6";54825
+1229;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.8;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.2";61219
+1230;"Lenovo";"Netbook";12.5;1920;1080;1;"Intel";"Core i7";2.5;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.3";87912
+1231;"Razer";"Gaming";14.0;1920;1080;0;"Intel";"Core i7";2.8;16;"1TB SSD";"SSD";1024;0;"Nvidia";"windows";"1.95";186427
+1232;"Dell";"Notebook";15.6;1366;768;1;"Intel";"Core i3";2.4;8;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.3";24989
+1233;"MSI";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.8;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.7";85141
+1234;"Apple";"Ultrabook";11.6;1366;768;0;"Intel";"Core i5";1.6;4;"256GB Flash Storage";"Flash Storage";256;0;"Intel";"macos";"1.08";51096
+1235;"HP";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.0;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.1";25468
+1236;"HP";"Ultrabook";14.0;2560;1440;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.54";117120
+1237;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i5";2.3;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.24";39267
+1238;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.3";62284
+1239;"Lenovo";"Notebook";13.3;1920;1080;0;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.4";79867
+1240;"Lenovo";"Notebook";15.6;1920;1080;0;"AMD";"A12-Series 9720P";3.6;6;"256GB SSD";"SSD";256;0;"AMD";"windows";"2.2";31839
+1241;"Asus";"Ultrabook";13.3;1920;1080;0;"Intel";"Core i7";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.45";68198
+1242;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"linux";"2.4";19277
+1243;"Dell";"2 in 1 Convertible";17.3;1920;1080;1;"Intel";"Core i7";2.7;16;"512GB SSD";"SSD";512;0;"Nvidia";"windows";"2.77";95851
+1244;"HP";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;4;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.54";58607
+1246;"Dell";"Notebook";14.0;1366;768;0;"Intel";"Core i5";2.5;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"1.6";46620
+1247;"Asus";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;16;"256GB SSD +  1TB HDD";"Hybrid";256;1024;"Nvidia";"windows";"2.34";123876
+1248;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i5";2.5;8;"256GB SSD";"SSD";256;0;"Intel";"N/A";"2.3";30529
+1249;"Dell";"2 in 1 Convertible";13.3;3200;1800;1;"Intel";"Core i5";1.2;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.24";96597
+1250;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"linux";"2.2";17263
+1251;"HP";"Notebook";15.6;1366;768;0;"AMD";"A6-Series 9220";2.5;4;"500GB HDD";"HDD";500;0;"AMD";"windows";"1.86";21259
+1252;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i3";2.3;6;"128GB SSD";"SSD";128;0;"Nvidia";"windows";"2.4";30316
+1253;"Lenovo";"Notebook";14.0;1920;1080;0;"Intel";"Core i5";2.3;8;"256GB SSD";"SSD";256;0;"Intel";"windows";"1.9";57116
+1254;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Pentium Quad";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.2";23656
+1255;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.1;4;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2";18062
+1256;"Asus";"Gaming";17.3;1920;1080;0;"Intel";"Core i7";2.6;16;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"4.0";101232
+1257;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.0;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.29";26107
+1258;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.5;8;"1.0TB Hybrid";"Hybrid";1024;0;"AMD";"windows";"2.32";47686
+1259;"MSI";"Gaming";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"128GB SSD +  1TB HDD";"Hybrid";128;1024;"Nvidia";"windows";"2.4";65481
+1260;"Lenovo";"2 in 1 Convertible";14.0;1920;1080;1;"Intel";"Core i5";2.3;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.8";44383
+1261;"Asus";"Ultrabook";13.3;1920;1080;0;"Intel";"Core M";0.9;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.2";38841
+1262;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;6;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.3";24456
+1263;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"linux";"2.4";15398
+1264;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;2;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.20";20193
+1265;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.6";47899
+1266;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A9-Series 9410";2.9;6;"1.0TB Hybrid";"Hybrid";1024;0;"AMD";"windows";"2.04";29303
+1267;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"AMD";"linux";"2.3";42943
+1268;"HP";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.17";11136
+1269;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.5;4;"500GB HDD";"HDD";500;0;"Nvidia";"windows";"2.2";38379
+1270;"Lenovo";"2 in 1 Convertible";14.0;1920;1080;1;"Intel";"Core i7";2.5;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.8";33993
+1271;"Lenovo";"2 in 1 Convertible";13.3;3200;1800;1;"Intel";"Core i7";2.5;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.3";79867
+1272;"Lenovo";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.6;2;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"windows";"1.5";12201
+1273;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.5;6;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.19";40706
+1274;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.2";19660
+1275;"Asus";"Ultrabook";13.3;1920;1080;0;"Intel";"Core M";0.9;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.2";38841
+1276;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;6;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.3";24456
+1277;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"linux";"2.4";15398
+1278;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;2;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.20";20193
+1279;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.6";47899
+1280;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A9-Series 9410";2.9;6;"1.0TB Hybrid";"Hybrid";1024;0;"AMD";"windows";"2.04";29303
+1281;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"AMD";"linux";"2.3";42943
+1282;"HP";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.17";11136
+1283;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.5;4;"500GB HDD";"HDD";500;0;"Nvidia";"windows";"2.2";38379
+1284;"Lenovo";"2 in 1 Convertible";14.0;1920;1080;1;"Intel";"Core i7";2.5;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.8";33993
+1285;"Lenovo";"2 in 1 Convertible";13.3;3200;1800;1;"Intel";"Core i7";2.5;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.3";79867
+1286;"Lenovo";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.6;2;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"windows";"1.5";12201
+1287;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.5;6;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.19";40706
+1288;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.2";19660
+1289;"Asus";"Ultrabook";13.3;1920;1080;0;"Intel";"Core M";0.9;8;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.2";38841
+1290;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i3";2.4;6;"1TB HDD";"HDD";1024;0;"Intel";"windows";"2.3";24456
+1291;"Acer";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"linux";"2.4";15398
+1292;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;2;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.20";20193
+1293;"Lenovo";"Notebook";15.6;1920;1080;0;"Intel";"Core i7";2.6;8;"1TB HDD";"HDD";1024;0;"Nvidia";"windows";"2.6";47899
+1294;"HP";"Notebook";15.6;1920;1080;0;"AMD";"A9-Series 9410";2.9;6;"1.0TB Hybrid";"Hybrid";1024;0;"AMD";"windows";"2.04";29303
+1295;"Dell";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.7;8;"1TB HDD";"HDD";1024;0;"AMD";"linux";"2.3";42943
+1296;"HP";"Netbook";11.6;1366;768;0;"Intel";"Celeron Dual";1.6;2;"32GB Flash Storage";"Flash Storage";32;0;"Intel";"windows";"1.17";11136
+1297;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.5;4;"500GB HDD";"HDD";500;0;"Nvidia";"windows";"2.2";38379
+1298;"Lenovo";"2 in 1 Convertible";14.0;1920;1080;1;"Intel";"Core i7";2.5;4;"128GB SSD";"SSD";128;0;"Intel";"windows";"1.8";33993
+1299;"Lenovo";"2 in 1 Convertible";13.3;3200;1800;1;"Intel";"Core i7";2.5;16;"512GB SSD";"SSD";512;0;"Intel";"windows";"1.3";79867
+1300;"Lenovo";"Notebook";14.0;1366;768;0;"Intel";"Celeron Dual";1.6;2;"64GB Flash Storage";"Flash Storage";64;0;"Intel";"windows";"1.5";12201
+1301;"HP";"Notebook";15.6;1366;768;0;"Intel";"Core i7";2.5;6;"1TB HDD";"HDD";1024;0;"AMD";"windows";"2.19";40706
+1302;"Asus";"Notebook";15.6;1366;768;0;"Intel";"Celeron Dual";1.6;4;"500GB HDD";"HDD";500;0;"Intel";"windows";"2.2";19660
